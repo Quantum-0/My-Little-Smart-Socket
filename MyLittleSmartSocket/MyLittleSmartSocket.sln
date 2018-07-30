@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLittleSmartSocket", "MyLittleSmartSocket.csproj", "{39A89D4A-5CB3-45A7-836D-8009BAF14207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A89D4A-5CB3-45A7-836D-8009BAF14207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A89D4A-5CB3-45A7-836D-8009BAF14207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A89D4A-5CB3-45A7-836D-8009BAF14207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A89D4A-5CB3-45A7-836D-8009BAF14207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBFB8E68-91D2-4810-B794-FED6D444F198}
+	EndGlobalSection
+EndGlobal
