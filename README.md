@@ -1,4 +1,5 @@
 # My-Little-Smart-Socket
+
 Управляемая через Wi-Fi розетка с таймером на основе Arduino
 
 ## Цель и описание работы
@@ -32,14 +33,16 @@
 ![Photo2](./Photo2.jpg)
 
 ### Скриншоты Desktop-клиента
-Тут будут красивенькие скриншоты меню, которое появляется при нажатии на значок в панели уведомлений
 
-### Видео демонстрация работы
 ![Screenshot1](./Screenshot1.jpg)
 
 ![Screenshot2](./Screenshot2.jpg)
 
 ![Screenshot3](./Screenshot3.jpg)
+
+### Видео демонстрация работы
+
+[![Demonstration](./img-2018-07-31-15-14-22.png)](https://youtu.be/IdIkxBlSRsc "Wi-Fi Smart Socket Demonstration")
 
 ## Ссылки на элементы Fritzing
 
